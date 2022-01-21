@@ -1,0 +1,14 @@
+.header, .sub-header {
+  text-align: center;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  background: rgb(64, 75, 240);
+  padding: 50px;
+}
+
+form input {
+  width: 100%;
+}
